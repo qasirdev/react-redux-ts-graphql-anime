@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+Link: https://www.youtube.com/watch?v=8GGdvFeQYmk
+
+### Commands
+
+`npm i --save @apollo/client graphql redux reselect`
+1-Web: `https://anilist.co/` , 2-UI: `https://anilist.co/graphiql` ,
+3-service endpoint: `https://anilist.co/graphql` , 4-command: `npm run schema:download`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
 ## Available Scripts
